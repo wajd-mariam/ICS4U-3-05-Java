@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2021
-*
 * The program MagicSquares.java uses recursion to solve the 3x3 magic square 
 * puzzle.
 *
